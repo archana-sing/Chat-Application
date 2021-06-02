@@ -18,7 +18,7 @@ This chat application let a user to join a group and chat with other members of 
 
 ## Clone the following git repository inside any folder:
 
-* https://github.com/archana-sing/project_chat_application
+* https://github.com/archana-sing/Chat-Application
 
 ##  Open the cloned git repo in VS Code and install the required dependencies.
 
