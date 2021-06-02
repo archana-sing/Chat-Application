@@ -42,10 +42,10 @@ This chat application let a user to join a group and chat with other members of 
       
 ## How to use the product
 
- 1. When you pen the url http://localhost:3000 in your brower , you will see the follwing page , where you need to write your name and select a group and click the **Join Room** button.
+ 1. When you open the url http://localhost:3000 in your brower , you will see the follwing page , where you need to write your name and select a group and click the **Join Room** button.
 
   ![chat home Page](https://github.com/archana-sing/project_chat_application/blob/master/Samples/chatapp.png)
   
- 2. Now you ca chat with other members present in the group.
+ 2. Now you can chat with other members present in the group.
 
   ![chat Page](https://github.com/archana-sing/project_chat_application/blob/master/Samples/localhost_3000_chat(Laptop%20with%20MDPI%20screen).png)
